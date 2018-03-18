@@ -1,6 +1,6 @@
 # beholder
 
-Social media tracking web app written in dotnet core 2
+Social tracking web app written in dotnet core 2
 
  ## requirements
  - dotnet core sdk 2.1.101
